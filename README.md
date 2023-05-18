@@ -3,4 +3,4 @@ A really janky Python script to scrape all tweets that day based on keyword sear
 If it finds any, a Windows notification will pop up showing the found tweets in a text file.
 Does not use Twitter API as its no longer free.
 
-Its far from perfect, but I use it everyday to monitor Twitter for possible leaks in my organization.
+I am no programmer, so its far from perfect. Bbut I use it everyday to monitor Twitter for possible leaks in my organization.
